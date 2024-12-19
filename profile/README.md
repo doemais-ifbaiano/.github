@@ -6,16 +6,16 @@
 Esta é uma organização com a finalidade de melhorar o ambiende de desenvolvimento da plataforma Doe+ que está sendo desenvolvida pelos discentes do curso Bacharelado em Sistemas de Informação do IFBaiano - Campus Itapetinga.
 
 ## Quem Somos
-<a href="https://github.com/Doe-IFBaiano/backend/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Doe-IFBaiano/backend" />
+<a href="https://github.com/doemais-ifbaiano/backend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=doemais-ifbaiano/backend" />
 </a>
 
-<a href="https://github.com/Doe-IFBaiano/web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Doe-IFBaiano/web" />
+<a href="https://github.com/doemais-ifbaiano/web/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=doemais-ifbaiano/web" />
 </a>
 
-<a href="https://github.com/Doe-IFBaiano/mobile/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Doe-IFBaiano/mobile" />
+<a href="https://github.com/doemais-ifbaiano/mobile/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=doemais-ifbaiano/mobile" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
