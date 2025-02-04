@@ -1,5 +1,6 @@
 # Doe+ 
 O projeto visa o desenvolvimento de uma aplicação que facilite a realização de doações para instituições. A plataforma permitirá que os usuários doem recursos financeiros, acompanhem campanhas, conheçam as instituições que são atendidas e colaborem de forma ativa na causa, promovendo uma rede de solidariedade.
+
 ![Version](https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge)
 
 ## Sobre
