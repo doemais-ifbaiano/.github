@@ -1,11 +1,25 @@
 # Doe+ 
+O projeto visa o desenvolvimento de uma aplicação que facilite a realização de doações para instituições. A plataforma permitirá que os usuários doem recursos financeiros, acompanhem campanhas, conheçam as instituições que são atendidas e colaborem de forma ativa na causa, promovendo uma rede de solidariedade.
 ![Version](https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge)
-
 
 ## Sobre
 Esta é uma organização com a finalidade de melhorar o ambiende de desenvolvimento da plataforma Doe+ que está sendo desenvolvida pelos discentes do curso Bacharelado em Sistemas de Informação do IFBaiano - Campus Itapetinga.
 
-## Quem Somos
+## Ferramentas utilizadas
+- [Figma](figma.com): ferramenta de design e prototipagem baseada na nuvem, usada para criar interfaces de usuário.
+- [ClickUp](https://app.clickup.com/login): ferramenta que facilita o acompanhamento de cada etapa das atividades pelos integrantes da equipe.
+- [VSCode](https://code.visualstudio.com/): é um editor de código-fonte multiplataforma desenvolvido pela Microsoft com suporte a várias linguagens de programação e extensões.
+
+## Funcionalidades do sistema
+| Funcionalidade   | Status |
+|------------------|:------:|
+| Login/Logout |  Funcionando | 
+| Cadastro de organizações e de doadores |  Em fase de implementação  | 
+| Listagem de perfis das organizações com suas necessidades |  Em fase de implementação  | 
+| Sistema de doações |  Em fase de implementação  |
+
+
+## Equipe
 <a href="https://github.com/doemais-ifbaiano/backend/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=doemais-ifbaiano/backend" />
 </a>
@@ -20,9 +34,10 @@ Esta é uma organização com a finalidade de melhorar o ambiende de desenvolvim
 
 Made with [contrib.rocks](https://contrib.rocks).
 
-## Contato
+# Documentação
+- [Discriminação do projeto](https://www.notion.so/Discrimina-o-do-Projeto-130ed73329ec801694f7da8453025415)
+- [Sumário do Software](https://www.notion.so/Sum-rio-do-Software-130ed73329ec80c59108fe89f29d2966)
 
-⚠️ Em construção
 
 ## Tecnologias
 
