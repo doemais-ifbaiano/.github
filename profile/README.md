@@ -38,6 +38,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 # Documentação
 - [Discriminação do projeto](https://www.notion.so/Discrimina-o-do-Projeto-130ed73329ec801694f7da8453025415)
 - [Sumário do Software](https://www.notion.so/Sum-rio-do-Software-130ed73329ec80c59108fe89f29d2966)
+- [Diagramas do projeto](https://www.notion.so/Diagramas-do-Projeto-21eefe48990b4ea788f844fed4e13a65)
 
 
 ## Tecnologias
